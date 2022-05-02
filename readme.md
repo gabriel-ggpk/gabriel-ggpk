@@ -1,4 +1,4 @@
-<div style="display: flex;justify-content: center;">
+<div style="display: flex;justify-content: center;flex-direction:column;">
 <img src="https://github-readme-stats.vercel.app/api?username=gabriel-ggpk&count_private=true&show_icons=true&theme=tokyonight">
 </div>
 <div style="display: flex;align-items: start;">
