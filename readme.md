@@ -1,9 +1,9 @@
-<div style="display: flex;justify-content: center;flex-direction:column;">
-<img style="" src="https://github-readme-stats.vercel.app/api?username=gabriel-ggpk&count_private=true&show_icons=true&theme=tokyonight">
-</div>
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=gabriel-ggpk&count_private=true&show_icons=true&theme=tokyonight">
+
 <div style="display: flex;align-items: start;">
-<img style="width:40%;" src="https://spotify-github-profile.vercel.app/api/view?uid=bibikan&cover_image=true&theme=compact">
-<img style="width:50%;padding-top:93px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-ggpk&layout=compact&theme=tokyonight">
+<img style="width:40%;" src="https://spotify-github-profile.vercel.app/api/view?uid=bibikan&cover_image=false&theme=default">
+<img style="width:50%;padding-bottom:93px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-ggpk&layout=compact&theme=tokyonight">
 </div>
 
 ![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)
@@ -13,4 +13,3 @@
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-<img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white">
