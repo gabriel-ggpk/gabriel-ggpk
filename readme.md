@@ -1,8 +1,8 @@
 <div style="display: flex;justify-content: center;flex-direction:column;">
-<img src="https://github-readme-stats.vercel.app/api?username=gabriel-ggpk&count_private=true&show_icons=true&theme=tokyonight">
+<img style="" src="https://github-readme-stats.vercel.app/api?username=gabriel-ggpk&count_private=true&show_icons=true&theme=tokyonight">
 </div>
 <div style="display: flex;align-items: start;">
-<img style="width:50%;" src="https://spotify-github-profile.vercel.app/api/view?uid=bibikan&cover_image=true&theme=compact">
+<img style="width:40%;" src="https://spotify-github-profile.vercel.app/api/view?uid=bibikan&cover_image=true&theme=compact">
 <img style="width:50%;padding-top:93px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-ggpk&layout=compact&theme=tokyonight">
 </div>
 
