@@ -1,7 +1,9 @@
 
-<p align="center">
+<p align="center" style="padding:80px;">
   <img src="https://github-readme-stats.vercel.app/api?username=gabriel-ggpk&count_private=true&show_icons=true&theme=tokyonight" alt="Sublime's custom image"/>
 </p>
+<br>
+<br>
 
 <div style="display: flex;align-items: start;">
 <img style="width:40%;" src="https://spotify-github-profile.vercel.app/api/view?uid=bibikan&cover_image=false&theme=default">
