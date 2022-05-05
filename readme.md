@@ -13,12 +13,13 @@
 
 <h2 align="left">Languages and Tools</h2>
 <p align="left" style="padding:80px;">
+&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=gabriel-ggpk&count_private=true&show_icons=true&theme=tokyonight" alt="Sublime's custom image"/>
- <img align="right" style="width:50%;padding-bottom:93px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-ggpk&layout=compact&theme=tokyonight">
-
+ &nbsp
+ <img style="width:40%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-ggpk&layout=compact&theme=tokyonight">
 </p>
-<br>
 
+<br>
 
 <p align="center">
  <img src="https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white">
