@@ -13,7 +13,7 @@
 
 <h2 align="left">Languages and Tools</h2>
 <p align="left" >
-&nbsp&nbsp&nbsp
+
   <img align="left" style="width:50%" src="https://github-readme-stats.vercel.app/api?username=gabriel-ggpk&count_private=true&show_icons=true&theme=tokyonight" alt="Sublime's custom image"/>
  &nbsp
  <img style="width:45%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-ggpk&layout=compact&theme=tokyonight">
