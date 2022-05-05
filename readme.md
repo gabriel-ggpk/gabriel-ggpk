@@ -9,13 +9,12 @@
 - :mortar_board: **Computer Scientist** in construction
 - 👺: [MyAnimeList](https://myanimelist.net/profile/bibikan)
 
-<div align="left">
 <img src="https://spotify-github-profile.vercel.app/api/view?uid=bibikan&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false">
-</div>
+
 <h2 align="left">Languages and Tools</h2>
-<p align="left" style="padding:80px;max-width:50%">
-  <img src="https://github-readme-stats.vercel.app/api?username=gabriel-ggpk&count_private=true&show_icons=true&theme=tokyonight" alt="Sublime's custom image"/>
- <img style="width:50%;padding-bottom:93px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-ggpk&layout=compact&theme=tokyonight">
+<p align="left" style="padding:80px;">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=gabriel-ggpk&count_private=true&show_icons=true&theme=tokyonight" alt="Sublime's custom image"/>
+ <img align="right" style="width:50%;padding-bottom:93px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-ggpk&layout=compact&theme=tokyonight">
 
 </p>
 <br>
