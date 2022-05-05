@@ -1,4 +1,16 @@
+<h1 align="center">Hi, I'm Gabriel:octocat:</h1>
 
+<!--  ## About me: -->
+ <img align="right" alt="GIF" src="./gif" width="auto" height="190"/>
+
+ 
+- 👷‍♂️: He/Him
+- 🪄: FullStack Tutor at [Driven Education](https://www.driven.com.br/)
+- :mortar_board: **Computer Scientist** in construction
+- 👺: [MyAnimeList](https://myanimelist.net/profile/bibikan)
+
+
+<h2 align="left">Languages and Tools</h2>
 <p align="center" style="padding:80px;">
   <img src="https://github-readme-stats.vercel.app/api?username=gabriel-ggpk&count_private=true&show_icons=true&theme=tokyonight" alt="Sublime's custom image"/>
 </p>
