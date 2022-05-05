@@ -1,7 +1,7 @@
-<h1 align="center">Hi, I'm Gabriel:octocat:</h1>
+<h1 align="center">Hi, I'm Gabriel</h1>
 
 <!--  ## About me: -->
- <img align="right" alt="GIF" src="./gif" width="auto" height="190"/>
+ <img align="right" alt="GIF" src="./output-onlinegiftools.gif" width="auto" height="190"/>
 
  
 - 👷‍♂️: He/Him
