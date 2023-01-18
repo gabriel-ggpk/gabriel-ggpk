@@ -5,7 +5,7 @@
 
  
 - 👷‍♂️: He/Him
-- 🪄: FullStack Tutor at [Driven Education](https://www.driven.com.br/)
+- 🪄: Front-end developer at [Acaso](https://aca.so/)
 - :mortar_board: **Computer Scientist** in construction
 - 👺: [MyAnimeList](https://myanimelist.net/profile/bibikan)
 
@@ -22,10 +22,8 @@
 <br>
 
 <p align="center">
- <img src="https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white">
 <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white">
 <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white">
-<img src="https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE">
 <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
 <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
 <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
