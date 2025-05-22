@@ -5,7 +5,7 @@
 
  
 - 👷‍♂️: He/Him
-- 🪄: Front-end developer at [Acaso](https://aca.so/)
+- 🪄: Full-stack developer at [Acaso](https://aca.so/)
 - :mortar_board: **Computer Scientist** in construction
 - 👺: [MyAnimeList](https://myanimelist.net/profile/bibikan)
 
